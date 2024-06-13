@@ -1,6 +1,6 @@
 # PRODIGY_WD_02
 
-[Your link here](file:///C:/Users/user/Desktop/Prodigy%20Infotech/Stopwatch%20Web%20Application/index.html)
+[Your link here](C:/Users/user/Desktop/Prodigy%20Infotech/Stopwatch%20Web%20Application/index.html)
 
 # Output
 
